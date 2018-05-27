@@ -12,7 +12,7 @@ namespace KnightTour
 
         public Log()
         {
-            _filePath = @"C:\Users\Vytautas\source\repos\KnightTour\Result\result.txt";
+            _filePath = @"C:\Users\Vytautas\Desktop\AI\KnightTour\KnightTour\result\result.txt";
             _log = new List<string>();
         }
 
